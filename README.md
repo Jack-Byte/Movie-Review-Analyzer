@@ -12,7 +12,7 @@ Im Kaptiel 18 von [Deep Learning for Coders](http://tiny.cc/fastaibook) verwende
 ### Webanwendung
 Per Klick auf den nachfolgenden Button wird ein Server gestartet und die Anwendung kann getestet werden. **Dies kann bis zu fünf Minuten dauern.**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Gleason-Pattern-Spotter/master?urlpath=%2Fvoila%2Frender%2Fgleason-pattern-spotter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Movie-Review-Analyzer/master?urlpath=%2Fvoila%2Frender%2Fmovie-review-analyzer.ipynb)
 ----------------------------------------------------------------------------------
 ## English
 Movie Review Analyzer is a web application that processes a movie review, and then determines whether it is a positive or negative review. A line graph shows how the particular word contributed to the final classification. If the word has a large diameter and is located higher, it was one of the deciding factors for the classification.
@@ -29,6 +29,6 @@ Translated with www.DeepL.com/Translator (free version)
 ### Web Application
 The following button brings you to the app. But you'll have to wait until a server is up and running. **This can take up to five minutes!**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Gleason-Pattern-Spotter/master?urlpath=%2Fvoila%2Frender%2Fgleason-pattern-spotter.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jack-Byte/Movie-Review-Analyzer/master?urlpath=%2Fvoila%2Frender%2Fmovie-review-analyzer.ipynb)
 
 
