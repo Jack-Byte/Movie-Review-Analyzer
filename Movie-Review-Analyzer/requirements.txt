@@ -1,0 +1,8 @@
+voila==0.2.3
+fastai==2.5.2
+packaging==20.4
+ipywidgets==7.5.1
+torch==1.9.1
+datashader==0.11.0
+panel==0.9.5
+bokeh==2.0.2
